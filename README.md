@@ -1,2 +1,2 @@
 # To-Do-List
- Código de uma lista de tarefas com opção de limpar e um sistema experimental de armazenamento
+ Código baseado em adicionar itens a uma OL com appendchilds e usar JSON pra armazenar o que for adicionado
